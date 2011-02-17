@@ -7,7 +7,7 @@ Hello and welcome to inSCIght, *the* scientific computing podcast.
 On episode number ###, we'll be discussing <episode concept>.
 
 I am <host name and short blurb>, your moderator and host on today's show.
-Joining me are our illustrious panelists.
+Joining me this week are three very insightful panelists.
 
     * <read first name and blurb>
     * <read second name and blurb>
