@@ -45,7 +45,7 @@ Episode Prep (Important!)
 
 
 Episode Types
-------------- 
+-------------
 1. Deep cut discussions on a single subject.  Starting from a high level, these 
    discussions won't shy away from digging into the theoretical details.
 2. Invited guest episodes.  These are similar to interviews where an invited guest 
@@ -53,7 +53,7 @@ Episode Types
    their research / project.  Then the remaining panelists jump in and the regular 
    episode flow continues.
 3. Topical / Conference episodes.  These will be an overview (prior or post) of a 
-   conference.  As such they\u2019ll cover a range of topics quickly, while hitting 
+   conference.  As such they'll cover a range of topics quickly, while hitting 
    the major themes.  Additionally, current event news would fit in this category.
 
 
@@ -62,8 +62,9 @@ Audience
 We have yet to figure out who our target audience is.  However, here is how we should 
 communicate with them:
 
-    1. Blog / Wave
+    1. Blog
     2. Twitter
-    3. Lists
-    4. IRC
-    5. Github
+    3. Github
+    4. Convore
+    5. (Lists)
+    6. (IRC)
