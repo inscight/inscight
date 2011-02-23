@@ -4,14 +4,11 @@ inSCIght: The Scientific Computing Podcast
 Every week we have a few panelists engage head-to-head on poignant and interesting topics. 
 
 The panelists are drawn from all across the scientific computing community.  From embedded 
-systems experts to very high level language gurus, from biologists to nuclear engineers, 
+systems experts to very high level language gurus, biologists and nuclear engineers, 
 the hosts of inSCIght use computers to solve science and engineering problems everyday. 
 
 This podcast throws people, ideas, and opinions into an audio-blender hoping to educate 
 and entice each other and the world.
-
-The inSCIght podcast is licensed under the Creative Commons Attribution 3.0 Unported
-(CC BY 3.0) license.
 
 You can find us at:
 
@@ -27,4 +24,9 @@ join the conversation!
 
 The inSCIght podcast is a co-production of Enthought, Software Carpentry, and The Hacker Within.
 
+
 Thanks for listening!
+
+
+The inSCIght podcast is licensed under the Creative Commons Attribution 3.0 Unported
+(CC BY 3.0) license.
