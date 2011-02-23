@@ -1,7 +1,7 @@
 inSCIght: The Scientific Computing Podcast
 ==========================================
 'inSCIght' is a podcast that focuses on scientific computing in all of its various forms. 
-Every week we have four panelists engage head-to-head on poignant and interesting topics. 
+Every week we have a few panelists engage head-to-head on poignant and interesting topics. 
 
 The panelists are drawn from all across the scientific computing community.  From embedded 
 systems experts to very high level language gurus, from biologists to nuclear engineers, 
