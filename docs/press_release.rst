@@ -22,8 +22,8 @@ You can find us at:
 
 Furthermore, we are are always looking to supplement our current repertoire of hosts and 
 special guests.  So if you would like to contribute to inSCIght or have something interesting 
-to present on a show, feel free to email us at info_AT_inscight.org! We'd love to have you
-join the conversation.
+to present on a show, feel free to email us at info_AT_inscight.org. We'd love to have you
+join the conversation!
 
 The inSCIght podcast is a co-production of Enthought, Software Carpentry, and The Hacker Within.
 
