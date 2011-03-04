@@ -2,6 +2,10 @@ Topic Preferences
 =================
 A repository of topics we feel comfortable speaking on.
 
+General Ideas
+---------------
+ * Reproducibility in science
+ * Engineering education
 
 Stock Panelists
 ---------------
