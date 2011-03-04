@@ -27,7 +27,7 @@ Stock Panelists
     * Reproducible research
     * Teaching scientific computing topics
 
-**Anthony Scopatz**
+**Katy Huff**
 
     * C++
     * Nuclear related engineering/physics/mathematics topics
