@@ -27,6 +27,23 @@ Stock Panelists
     * Reproducible research
     * Teaching scientific computing topics
 
+**Anthony Scopatz**
+
+    * C++
+    * Nuclear related engineering/physics/mathematics topics
+    * Python
+    * Version Control
+    * Unit testing (beginner!)
+    * Documentation
+    * Scientific writing tools
+    * Reproducible research
+    * Teaching scientific computing topics
+    * Perl
+    * Regular Expressions  
+    * Scripting
+
+
+
 Guest Panelists
 ---------------
 
