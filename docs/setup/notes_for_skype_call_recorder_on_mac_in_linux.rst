@@ -14,10 +14,14 @@ Configuration
 -------------
 
 The default device on skype is not pointed to the correct place.
-Instead go to ``Options -> Sound Devices -> Microphone``. 
-Point this device to the third option down, or the one that reads
-``HDA Intel, Cirrus Analog Default Audio Device (default:Card=Intel)``, 
-hit apply, and you should be good to go.
+Instead,  
+
+    * Go to ``Options -> Sound Devices -> Microphone``,
+    * Point this device to the third option down, or the one that reads
+      ``HDA Intel, Cirrus Analog Default Audio Device (default:Card=Intel)``, 
+    * Hit apply, 
+
+and you should be good to go.
 
 ALSA itself also needs to be properly configured to get the best sound.
 In gnome-alsamixer, make sure the mixed levels are as follows::
