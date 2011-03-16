@@ -1,1 +1,7 @@
+# Episodes
 episodes/raw/
+*.mp3
+
+
+# Source
+*.pyc
