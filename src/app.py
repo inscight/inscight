@@ -2,8 +2,8 @@ import os
 import subprocess
 from threading import Timer
 
-from enthought.traits.api import HasTraits, Str, Bool, Instance, Any
-from enthought.traits.ui.api import View, Group, HGroup, VGroup, ImageEditor, Item
+from enthought.traits.api import HasTraits, Str, Bool, Instance, Any, File
+from enthought.traits.ui.api import View, Group, HGroup, VGroup, ImageEditor, Item, spring
 
 HOME = os.environ["HOME"]
 RECORD_DIR = os.path.join(HOME, "skype")
@@ -16,13 +16,31 @@ class App(HasTraits):
 
     inscight_logo_editor = ImageEditor(image=os.path.join("..", "img", "icons", "InSciGHT.jpg"))
 
-    traits_view = View(Item('inscight_logo', 
-                            editor=inscight_logo_editor, 
-                            show_label=False,
-                            ),
-                       Item('recording',
-                            #style="custom",
-                            ),
+    ok_editor = ImageEditor(image=os.path.join("..", "img", "app", "ok.png"))
+    not_ok_editor = ImageEditor(image=os.path.join("..", "img", "app", "not_ok.png"))
+
+    traits_view = View(HGroup(Item('inscight_logo', 
+                                editor=inscight_logo_editor, 
+                                show_label=False,
+                                ),
+                              Item('recording',
+                                visible_when="False",
+                                ),
+                              spring,
+                              Item('ok', 
+                                   editor=ok_editor, 
+                                   visible_when="recording", 
+                                   show_label=False,
+                                   ),
+                              Item('not_ok', 
+                                   editor=not_ok_editor, 
+                                   visible_when="not recording", 
+                                   show_label=False,
+                                   ),
+                             ),
+                       #resizable=True,
+                       width = 400,
+                       height = 150,
                        )
 
 
@@ -36,25 +54,25 @@ class App(HasTraits):
 
     def ls_timer_generator(self):
         def ls_rec_dir_timer():
-            print "here"
-            self.ls_record_dir = self.list_rec_dir()
+            # Updates the recording trait
+            lsrd = self.list_rec_dir()
+            self.recording = (self.ls_record_dir != lsrd)
+            self.ls_record_dir = lsrd
+
+            # Spawns subsequent timers indefinitely
             self.ls_timer = Timer(1.0, ls_rec_dir_timer)
             self.ls_timer.start()
 
+        # Spawns the initial timer
         self.ls_timer = Timer(1.0, ls_rec_dir_timer)
         self.ls_timer.start()
 
     def _recording_default(self):
-        print "Recording"
+        """Initializes the recording trait."""
         self.ls_record_dir = self.list_rec_dir()
-        print self.ls_record_dir
         self.ls_timer_generator()
         return False
 
     #
     # Changed Trait Events
     # 
-
-    def _ls_record_dir_changed(self, old, new):
-        print "Yo"
-        recording = (old != new)
