@@ -55,6 +55,14 @@ Guest Panelists
     * Project management and planning as well.
 
 
+**Chris Mueller**
+
+    * Genomics/next-generation sequencing 
+    * Software engineering in scientific environments
+    * High performance computing
+    * Visualization/scientific computing 
+    * Large data problems (graphs and unstructured data, in particular)
+
 **Cameron Neylon**
 
     * Technical advances that relate to data sharing and infrastructure, policy, standards
