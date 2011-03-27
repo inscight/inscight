@@ -11,6 +11,17 @@ This document will walk you through the specifics of how to
 successfully organize an episode, and get an awesome 
 reputation in the process.
 
+Here is a checklist, for the tl;dr among us:
+
+    #. Acquire Panelists
+    #. Secure Episode Date & Number
+    #. Make Convore Thread
+    #. Make Doodle Event
+    #. Send Kickoff Email
+    #. Send Gentle Reminder Email
+    #. Select Recording Time
+    #. Resolve Scheduling Conflicts
+    #. Profit
 
 -------------
 Gather People 
