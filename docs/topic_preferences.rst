@@ -25,6 +25,21 @@ Stock Panelists
     * Regular Expressions  
     * Scripting
 
+**Geraldine Van der Auwera**
+
+    * Biology / Genomics 
+    * Python & BioPython
+    * Notions of Perl & BioPerl
+    * Version Control (beginner!)
+    * Unit testing (beginner!)
+    * Documentation
+    * Reproducible research
+    * Scientific publishing
+    * Scientific writing tools (LaTeX!)
+    * Visualization/scientific computing 
+    * Scripting 
+    * Ranting 
+
 **Matt McCormick**
 
     * Medical imaging related engineering/physics/mathematics topics
@@ -54,7 +69,6 @@ Guest Panelists
     * Embedded programming (firmware, real time OSes, assembly optimization, semaphores, etc.). 
     * Project management and planning as well.
 
-
 **Chris Mueller**
 
     * Genomics/next-generation sequencing 
@@ -69,7 +83,6 @@ Guest Panelists
     * The culture around testing and documentation (and why we're so bad at it). 
     * I'm not much use on detailed technical issues or advances, but more how they interact 
       with the everyday work of scientists.
-
 
 **Kaitlin Thaney**
 
