@@ -3,7 +3,7 @@ How to Moderate an inSCIght Episode
 ===================================
 Congratulations!  You have been selected to moderate an inSCIght episode.
 This lofty task puts *you* as the front-facing representative of inSCIght.
-The only requirement for being a moderator is that you must has previously
+The only requirement for being a moderator is that you must have previously
 been a panelist on the show once.
 
 You have been chosen for this task by this episode's organizer.  Or, more
@@ -12,7 +12,7 @@ likely, you are the show's organizer as well.
 You duties as moderator also are extended to those of editor as well.
 Here is a quick list of what you'll need to do:
 
-    #. Setup your recording environment
+    #. Set up your recording environment
     #. Last minute recording test
     #. Pre-Game with panelists
     #. Record the show
@@ -106,7 +106,7 @@ other panelists.  Say something like:
     prepared to spend 15 - 30 secs on your soapbox.  
 
     After rants, I'll read the outro blurb.  Then we'll have 5 seconds of 
-    silence and then we can sit and chat for a little while afterwards, if
+    silence and then we can sit and chat for a little while afterward, if
     you want.
 
     Sound good to everyone?  
