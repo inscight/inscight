@@ -204,10 +204,17 @@ and organized this episode, only give yourself the much cooler 'moderator' credi
 If the organizer was not actually on the show, please note that they organized the show
 somewhere in the main body.  
 
-Finally, you are good to go.  Hit that publish button like it has never been hit before!
+At last, you are good to go.  Hit that publish button like it has never been hit before!
 
 (Also, if someone on the show does not have their bio on either the 'Bio' or 'Guests'
 page, please add it now).
+
+Additonally, we are also part of the network over at `Science Podcasters`_. 
+All you have to do, is copy-paste that post you just wrote for our own website
+and make a post over there. Sign in as ``inSCIght``.  Be sure to put the 
+post in the ``inSCIght`` category so it becomes linked to our show.
+
+We should really have a tool that posts out to all of these websites... 
 
 
 ------
@@ -226,3 +233,6 @@ everywhere, in all time.
 .. _blog template: https://github.com/inscight/inscight/blob/master/docs/blog/episode_post.html
 
 .. _inSCIght blog: http://inscight.org/
+
+.. _Science Podcasters: http://www.sciencepodcasters.org/
+
