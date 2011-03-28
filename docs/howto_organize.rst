@@ -28,7 +28,7 @@ Gather People
 -------------
 At this point, it is assumed that you have an idea for what 
 the episode should be about.  Now you need to convince *other*
-people to be on the show as well.  We have a hard limits 
+people to be on the show as well.  We have hard limits 
 of 3 people per episode minimum and 4 people per episode max.  
 
 If you know someone(s) who would be interested, feel free to 
@@ -139,7 +139,7 @@ is most important to put on a show.  It is your job to say to the people who can
 make the time that you selected, "Sorry, better luck next time."  (Be careful not 
 to eliminate your moderator though!)
 
-Also, if a panelist has to drop last minute for some reason, it is your job to 
+Also, if a panelist has to drop out at the last minute for some reason, it is your job to 
 replace them.  If for some reason a show drops to 2 people, you should not record.
 Or record a more informal show.
 
