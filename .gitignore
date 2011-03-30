@@ -5,3 +5,4 @@ episodes/raw/
 
 # Source
 *.pyc
+src/posts/passwd.py
