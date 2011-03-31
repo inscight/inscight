@@ -1,4 +1,4 @@
-"""Posts an episode of inSCIght to the intarnets."""
+"""Posts an episode of inSCIght to teh intarnets."""
 
 
 import pyblog
