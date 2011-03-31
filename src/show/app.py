@@ -14,10 +14,10 @@ class App(HasTraits):
     recording = Bool
     ls_timer = Any
 
-    inscight_logo_editor = ImageEditor(image=os.path.join("..", "img", "icons", "InSciGHT.jpg"))
+    inscight_logo_editor = ImageEditor(image=os.path.join("..", "..", "img", "icons", "InSciGHT.jpg"))
 
-    ok_editor = ImageEditor(image=os.path.join("..", "img", "app", "ok.png"))
-    not_ok_editor = ImageEditor(image=os.path.join("..", "img", "app", "not_ok.png"))
+    ok_editor = ImageEditor(image=os.path.join("..", "..", "img", "app", "ok.png"))
+    not_ok_editor = ImageEditor(image=os.path.join("..", "..", "img", "app", "not_ok.png"))
 
     traits_view = View(HGroup(Item('inscight_logo', 
                                 editor=inscight_logo_editor, 
