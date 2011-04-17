@@ -197,7 +197,8 @@ Post to Blog
 Whew!  After all that hard work, you finally get to let the world know about your 
 super-awesome episode.  Please copy the `blog template`_ into a new post over 
 at the `inSCIght blog`_ (wordpress.com).  (Note that you need to copy it into
-'HTML' mode rather than 'Visual'.)
+'HTML' mode rather than 'Visual'.)  To get administrator access to the WordPress
+account, send Anthony your WordPress account email.
 
 Now you just need to fill the template out!  Keep in mind that if you both moderated 
 and organized this episode, only give yourself the much cooler 'moderator' credit.
@@ -209,10 +210,11 @@ At last, you are good to go.  Hit that publish button like it has never been hit
 (Also, if someone on the show does not have their bio on either the 'Bio' or 'Guests'
 page, please add it now).
 
-Additonally, we are also part of the network over at `Science Podcasters`_. 
-All you have to do, is copy-paste that post you just wrote for our own website
-and make a post over there. Sign in as ``inSCIght``.  Be sure to put the 
-post in the ``inSCIght`` category so it becomes linked to our show.
+Additonally, we are also part of the network over at `Science Podcasters`_.  All
+you have to do, is copy-paste that post you just wrote for our own website and
+make a post over there. Sign in as ``inSCIght``.  The password can be obtained
+from Anthony or Matt.  Be sure to put the post in the ``inSCIght`` category so
+it becomes linked to our show.
 
 We should really have a tool that posts out to all of these websites... 
 
