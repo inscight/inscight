@@ -171,8 +171,8 @@ The following is the editing work flow that I have found that works best:
        show's outro blurb.
     #. Run "Normalize" on the whole project to match up 
        audio levels between the music and the show.
-    #. Export as an mp3.  Use the naming convention:
-       "inscight_{num}_{year}_{month}_{day}.mp3".
+    #. Export as an mp3.  Use the Audacity `tags template`_.
+       Use the naming convention: "inscight_{num}_{year}_{month}_{day}.mp3".
 
 This seems like a lot work, but it is what turns our podcast from "pretty good" to 
 "quality".  Said another way, we don't want potential listeners walking away from the 
@@ -231,6 +231,8 @@ everywhere, in all time.
 .. _short biographies: https://github.com/inscight/inscight/tree/master/docs/bio
 
 .. _outro blurb: https://github.com/inscight/inscight/blob/master/docs/outro_blurb.rst
+
+.. _tags template: https://github.com/inscight/inscight/raw/master/src/show/inscight_audacity_tags_template.xml
 
 .. _blog template: https://github.com/inscight/inscight/blob/master/docs/blog/episode_post.html
 
