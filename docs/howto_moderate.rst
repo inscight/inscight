@@ -153,6 +153,14 @@ One of your duties as a moderator is to edit the raw episode that you have just 
 There is a variety of audio editing software out there.  One that I like that is 
 cross-platform is called "audacity".  
 
+If the skype conference call was recorded as a multi-track AAC file, the tracks
+can be split for importing into audacity with ffmpeg::
+
+  ffmpeg -i input.aac -map 0:0 output0.wav
+
+This will save the first track.  The option `-map 0:1` will extract the second
+stream.
+
 The following is the editing work flow that I have found that works best:
 
     #. Load the show into a new project.
