@@ -15,3 +15,4 @@ the first Open Hardware Summit in the fall of 2010. At Bug Labs she runs the aca
 and the Test Kitchen, an open R&D Lab, her current project is an NSF funded project to make a device for 
 measuring physics classroom experiments. She has a master's degree in information science and in art history.
 
+
