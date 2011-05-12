@@ -4,7 +4,7 @@ Katy Huff
 Short
 -----
 Katy Huff is a Ph.D. student conducting computational nuclear engineering research at 
-the University of Wisconsin-Madison and currently the benevolent dictator of The Hacker 
+the University of Wisconsin-Madison and until recently was the benevolent dictator of The Hacker 
 Within, a primo scientific computing interest group.
 
 
