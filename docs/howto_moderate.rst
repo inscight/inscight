@@ -165,20 +165,26 @@ The following is the editing work flow that I have found that works best:
 
     #. Load the show into a new project.
     #. Cut the pre-game and post-game parts of the show out.
-    #. Import the intro/outro music in another track.
-    #. Find a 5-15 sec intro music clip and place it at t=0.
-    #. Fade the intro music in and out.
     #. Line the fade-out of the intro music up with the 
        show's intro blurb.
     #. **Important:** Listen to the whole show, removing
        silent periods over 0.5 sec and extraneous "Ummm"s and 
        "Like"s.  This part takes a while, but is critical.
+    #. Run Effect -> Leveller... on the whole project to balance difference
+       voice levels.
+    #. Run Effect -> Normalize... on the whole project to get the overall volume correct.
+    #. Optionally run Effect -> Noise Removal... and Effect -> Plugins 1 to 10
+       -> High Pass Filter... to clean up the audio.
+    #. Import the intro/outro music in another track.  Tracks -> Add new ->
+       Stereo Track.
+    #. Find a 5-15 sec intro music clip and place it at t=0.
+    #. Fade the intro music in and out.
+    #. Place the speech at the right location in the timeline.  More dead time
+       can be added with Generate -> Silence...
     #. Find another 5-15 sec to use as the outro music.  
     #. Fade the outro music in an out.
     #. Line the outro music fade in up with the end of the 
        show's outro blurb.
-    #. Run "Normalize" on the whole project to match up 
-       audio levels between the music and the show.
     #. Export as an mp3.  Use the Audacity `tags template`_.
        Use the naming convention: "inscight_{num}_{year}_{month}_{day}.mp3".
 
