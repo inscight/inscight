@@ -201,9 +201,13 @@ at about $1000 per year (~$20 per episode).   Ideas for funding are always welco
 ------------------
 Uploading the Show
 ------------------
-Right now, we have hosting via Enthought.  So you need to get the mp3 to 
-scopz (Anthony Scopatz).  More publicly available suggestions are welcome!
 
+Upload the show to archive.org.  Enter the following meta information:
+
+- Title: Inscight Episode XX - Episode Title
+- Description: paste the blog description
+- Keywords: inscight, podcast, scientific computing, keywords relevant to the episode
+- Creative Commons License: Attribution 3.0 Unported.
 
 ------------
 Post to Blog
