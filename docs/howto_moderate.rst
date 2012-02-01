@@ -147,6 +147,35 @@ Give everyone a hardy thanks for doing the show.  Continue the conversation, if 
 ----------------
 Editing the Show
 ----------------
+There are two options you as the great moderator have to get the raw episode edited.
+
+******************************
+Option 1: Use the Audio Editor
+******************************
+We the inSCIght podcast have hired an audio editor (Andrew Cone) who is held on 
+retainer for making the show sound good from your raw file.  However, his services may 
+take a few days to complete.  If the show needs to be out much sooner, please consider
+**Option 2**.
+
+If you have never uploaded a show, please make an account with Amazon Web Services 
+and then give either Anthony, Matt, or Katy your account number so that they may 
+grant you permissions on the inSCIght S3 bucket.
+
+Then upload the raw audio file as to the ``episodes/raw/`` directory with the filename
+``inscight_{##}_raw.mp3`` in the inSCIght S3 bucket.  You may either upload using Amazon's
+S3 web interface (`https://console.aws.amazon.com/s3/home`_) or using a command-line utility, 
+such as s3cmd (consult your favorite package manager).
+
+Once the raw file is uploaded, make it public in the AWS console.  Then either let Andrew
+Cone know directly or email the whole mailing list letting our esteemed editor know that 
+the raw file is ready.  Be sure to state a date by which you need the episode by.  Include
+any intro/outro music you want or let Andrew know that you'll add it yourself later.
+
+Wait until the appointed time and Andrew will have your show ready for you!
+
+************************
+Option 2: Do-It-Yourself
+************************
 (Warning: this part takes a couple of hours!)
 
 One of your duties as a moderator is to edit the raw episode that you have just recorded.
@@ -194,15 +223,25 @@ show because they didn't like the audio quality.  People will ignore your ideas 
 they are not in an easily digestible format.  Treat every episode like it is the
 first episode that someone might hear.
 
-I would love it if we could pay to have someone do this for us.  I have priced it 
-at about $1000 per year (~$20 per episode).   Ideas for funding are always welcome.
-
 
 ------------------
 Uploading the Show
 ------------------
+If you have never uploaded a show, please make an account with Amazon Web Services 
+and then give either Anthony, Matt, or Katy your account number so that they may 
+grant you permissions on the inSCIght S3 bucket.
 
-Upload the show to archive.org.  Enter the following meta information:
+Then upload the edited audio file as to the ``episodes/raw/`` directory with the filename
+``inscight_{##}_{CCYY}_{MM}_{DD}.mp3`` in the inSCIght S3 bucket.  You may either upload 
+using Amazon's S3 web interface (`https://console.aws.amazon.com/s3/home`_) or using a 
+command-line utility, such as s3cmd (consult your favorite package manager).
+
+Once the file is uploaded, make it public in the AWS console.  This is a menu option
+on the drop-down when you right-click the filename.  Then look at the properties of this
+file and note the public URL for writing the blog post.
+
+You may also upload the show to archive.org *in addition to S3*.  Enter the following meta 
+information:
 
 - Title: Inscight Episode XX - Episode Title
 - Description: paste the blog description
@@ -221,7 +260,7 @@ account, send Anthony your WordPress account email.
 Now you just need to fill the template out!  Keep in mind that if you both moderated 
 and organized this episode, only give yourself the much cooler 'moderator' credit.
 If the organizer was not actually on the show, please note that they organized the show
-somewhere in the main body.  
+somewhere in the main body.  Be sure to link to the file that you hosted on Amazon's S3.
 
 At last, you are good to go.  Hit that publish button like it has never been hit before!
 
