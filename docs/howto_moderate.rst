@@ -223,20 +223,10 @@ show because they didn't like the audio quality.  People will ignore your ideas 
 they are not in an easily digestible format.  Treat every episode like it is the
 first episode that someone might hear.
 
-<<<<<<< HEAD
-I would love it if we could pay to have someone do this for us.  I have priced it 
-at about $1000 per year (~$20 per episode).   Ideas for funding are always welcome.
-
-=======
->>>>>>> 8851e7b21d98da4664b5b45731ff5c51d5dc6dd8
-
 ------------------
 Uploading the Show
 ------------------
-<<<<<<< HEAD
 
-Upload the show to archive.org.  Enter the following meta information:
-=======
 If you have never uploaded a show, please make an account with Amazon Web Services 
 and then give either Anthony, Matt, or Katy your account number so that they may 
 grant you permissions on the inSCIght S3 bucket.
@@ -252,7 +242,6 @@ file and note the public URL for writing the blog post.
 
 You may also upload the show to archive.org *in addition to S3*.  Enter the following meta 
 information:
->>>>>>> 8851e7b21d98da4664b5b45731ff5c51d5dc6dd8
 
 - Title: Inscight Episode XX - Episode Title
 - Description: paste the blog description
@@ -271,11 +260,7 @@ account, send Anthony your WordPress account email.
 Now you just need to fill the template out!  Keep in mind that if you both moderated 
 and organized this episode, only give yourself the much cooler 'moderator' credit.
 If the organizer was not actually on the show, please note that they organized the show
-<<<<<<< HEAD
-somewhere in the main body.  
-=======
 somewhere in the main body.  Be sure to link to the file that you hosted on Amazon's S3.
->>>>>>> 8851e7b21d98da4664b5b45731ff5c51d5dc6dd8
 
 At last, you are good to go.  Hit that publish button like it has never been hit before!
 
