@@ -3,6 +3,8 @@ episodes/
 episodes/raw/
 *.mp3
 
+# images
+*.png
 
 # Source
 *.pyc
