@@ -3,7 +3,7 @@ Oscar Najera
 
 Short
 -----
-Oscar Najera is an ndergraduate physics student and gentoo linux user in Ecuador focusing 
+Oscar Najera is an undergraduate physics student and gentoo linux user in Ecuador focusing 
 on Solid State physics and developing a simulation for relaxor ferroelectrics. 
 He is also an excellent tango dancer. 
 
