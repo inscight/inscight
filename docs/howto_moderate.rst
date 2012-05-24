@@ -223,10 +223,10 @@ show because they didn't like the audio quality.  People will ignore your ideas 
 they are not in an easily digestible format.  Treat every episode like it is the
 first episode that someone might hear.
 
-
 ------------------
 Uploading the Show
 ------------------
+
 If you have never uploaded a show, please make an account with Amazon Web Services 
 and then give either Anthony, Matt, or Katy your account number so that they may 
 grant you permissions on the inSCIght S3 bucket.
